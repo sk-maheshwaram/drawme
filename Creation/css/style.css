@@ -12,7 +12,7 @@ body{
   margin:1%;
   background-color: black;
 }
-div:hover{
+div:hover, div:focus, div:active{
   background-color:#00334d;
    transition: 0s;
   
