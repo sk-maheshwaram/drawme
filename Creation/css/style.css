@@ -1,0 +1,19 @@
+div{
+  padding:1%;
+  border:1px solid black;
+  display:inline-block;
+  text-align:center;
+  transition: 2s linear;
+  width: 10px;
+  height: 10px;
+  transition: background-color 5s ; 
+}
+body{
+  margin:1%;
+  background-color: black;
+}
+div:hover{
+  background-color:#00334d;
+   transition: 0s;
+  
+}
